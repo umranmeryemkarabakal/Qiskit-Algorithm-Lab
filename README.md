@@ -6,17 +6,17 @@
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" alt="Qiskit" />
 </p>
 
-## 🇬🇧 Overview
+## Overview
 
 Quantum computing notebooks with Qiskit: simple circuits, connecting to IBM Quantum, phase and the Bloch sphere, teleportation, and the Bernstein–Vazirani, Deutsch, Grover and Shor algorithms.
 
 **Quick start:** `jupyter notebook`
 
-## 🇹🇷 Proje hakkında
+## Proje hakkında
 
 Qiskit ile kuantum hesaplama defterleri; basit devrelerden Grover ve Shor algoritmalarına kadar.
 
-## 📚 İçerik
+## İçerik
 
 - `Q01`: basit kuantum devreleri
 - `Q02`: IBM Quantum hesabına bağlanma
@@ -27,7 +27,7 @@ Qiskit ile kuantum hesaplama defterleri; basit devrelerden Grover ve Shor algori
 - `Q08`–`Q09`: Grover araması
 - `Q10`–`Q11`: Shor algoritması
 
-## ⚙️ Kurulum ve çalıştırma
+## Kurulum ve çalıştırma
 
 ```bash
 python -m venv .venv
@@ -41,7 +41,7 @@ IBM Quantum için API anahtarınızı `ibmtoken.txt` dosyasına yazın. Bu dosya
 jupyter notebook
 ```
 
-## 📁 Dosya yapısı
+## Dosya yapısı
 
 ```text
 Qiskit-Algorithm-Lab/
